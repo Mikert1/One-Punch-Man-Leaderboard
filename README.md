@@ -6,6 +6,8 @@ We made this in a week time with a team of 3.
 The theme was One Punch Man
 
 ## What did we make?
+![afbeelding](https://github.com/user-attachments/assets/ea54b985-0815-4857-b8f8-d135e1d5992c)
+
 
 ### Landing Page
 A home page with info over the organisation.
